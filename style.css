@@ -1,0 +1,14 @@
+body{
+    background-color:rgb(169, 255, 255);
+}
+
+.animation
+{
+    color: rgb(249, 115, 115);
+    background-color: black;
+}
+#final
+{
+    background-color: rgb(248, 106, 106);
+    color: black;
+}
